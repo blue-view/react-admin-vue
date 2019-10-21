@@ -4,7 +4,7 @@
 
 <script>
 export default {
-  name: "NotFound"
+  name: "notFound"
 };
 </script>
 
@@ -15,6 +15,6 @@ export default {
   height: 100%;
   background: url(../assets/404.jpg) no-repeat;
   background-size: 100% 100%;
-   position: fixed;
+  position: fixed;
 }
 </style>
